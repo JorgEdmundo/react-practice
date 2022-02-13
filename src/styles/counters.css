@@ -1,0 +1,26 @@
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px 0;
+}
+
+.buttonContainer button {
+    max-width: 200px;
+}
+
+.container {
+    display: flex;
+    gap: 0 20px;
+    margin-top: 20px;
+}
+
+.counter {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px 0;
+}
+
+button {
+    cursor: pointer;
+}
